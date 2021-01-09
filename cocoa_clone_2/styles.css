@@ -1,0 +1,38 @@
+html{
+  background-color: tomato;
+}
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+#main_box{
+  height: 250px;
+  width: 260px;
+  background-color: wheat;
+  border: 3px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.btn{
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: teal;
+  border: 3px solid whitesmoke;
+}
+
+.midbox{
+  width: 200px;
+  border: 3px dotted whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
