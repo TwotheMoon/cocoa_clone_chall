@@ -1,0 +1,29 @@
+.bot-ctrlbar{
+    height: 70px;
+    width: 90%;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    bottom: 0;
+    background-color: #000000;
+    padding: 0px 50px;
+}
+.fa-comment{
+    position: relative;
+}
+.nolook-sm{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    background-color: #e65f3f;
+    border-radius: 50%;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 8px;
+    left: 10px;
+
+
+}

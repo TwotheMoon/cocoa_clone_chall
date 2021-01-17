@@ -1,0 +1,10 @@
+.ad-column{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.ad-column img{
+    width: 430px;
+    height: 80px;
+}
