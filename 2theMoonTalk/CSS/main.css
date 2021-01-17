@@ -1,0 +1,6 @@
+/* components CSS */
+@import "components/status-bar.css";
+
+* {
+    box-sizing: border-box;
+  }
