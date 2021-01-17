@@ -14,6 +14,8 @@
 @import "screen/chats.css";
 @import "screen/search.css";
 @import "screen/more.css";
+@import "screen/chat.css";
+@import "screen/setting.css";
 
 * {
     box-sizing: border-box;
