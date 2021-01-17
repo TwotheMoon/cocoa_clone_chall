@@ -12,6 +12,7 @@
 @import "screen/index.css";
 @import "screen/friend.css";
 @import "screen/chats.css";
+@import "screen/search.css";
 
 * {
     box-sizing: border-box;

@@ -1,0 +1,86 @@
+.search-heard-column{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    font-weight: 700;
+}
+.search-heard__musicteb{
+    display: flex;
+}
+.search-heard__musicteb i{
+ padding-bottom: 10px;   
+ font-size: 10px;
+}
+.search-heard__sub{
+    color: gray;
+}
+.select-bar-column{
+    display: flex;
+    border-bottom: 2px solid rgba(70, 70, 70, 0.521);
+    margin-top: 20px;
+    position: relative;
+}
+.select-bar__right{
+    position: absolute;
+    width: 60px;
+    border-radius: 20px;
+    border-bottom: 3px solid white;
+    right: 13px;
+    margin-right: 20px;
+}
+.mid-contens{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.music-column{
+    margin-top: 15px;
+    font-weight: 700;
+    padding-right: 260px;
+}
+.top-music-img-column{
+    margin-top: 10px;
+    display: flex;
+}
+.top-music-img-left,
+.top-music-img-right{
+    width: 210px;
+    height: 120px;
+}
+.top-music-img-left{
+    margin-right: 10px;
+}
+.top-music-text-column{
+    display: flex;
+}
+.top-music-text__left{
+    width: 210px;
+    margin-top: 10px;
+}
+.top-music-text__left h2{
+    font-size: 15px;
+    font-weight: 700;
+}
+.top-music-text__left span{
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--gray);
+}
+.top-music-text__right{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.top-music-text__right h2{
+    font-size: 15px;
+    font-weight: 700;
+}
+.top-music-text__right span{
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--gray);
+}
+.bot-music-img-column{
+    margin-top: 30px;
+    display: flex;
+}
